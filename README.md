@@ -1,6 +1,6 @@
 # Burrows-Wheeler Transform in Ada
 
-This is an implementation of the **[Burrows-Wheeler Transform (BWT)](https://en.wikipedia.org/wiki/Burrows%E2%80%93Wheeler_transform)** and its inverse in Ada. 
+This is an Index-based implementation of the **[Burrows-Wheeler Transform (BWT)](https://en.wikipedia.org/wiki/Burrows%E2%80%93Wheeler_transform)** and its inverse in Ada. No sentinel needed.
 
 ## What is the Burrows-Wheeler Transform?
 
